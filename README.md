@@ -1,4 +1,9 @@
-# django_portfolio_website
+# Django Portfolio Website
+
+### Description:
 This was a small learning exercise undertaken by me after some self-learning.
-I have created my own small-portfolio website using Django framework with PostgreSQL as the DB.
-I haven't hosted this website anywhere, the short demo video is available at https://www.youtube.com/watch?v=LME1LipGKSE
+I have created my small-portfolio website using Django framework with PostgreSQL as the DB.
+The website is not hosted, as it was designed just for learning purposes. <br />
+
+### Demo:
+![](images/portfolio_website.gif)
